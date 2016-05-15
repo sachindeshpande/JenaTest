@@ -1,4 +1,3 @@
-package JenaPackage.Jena;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
